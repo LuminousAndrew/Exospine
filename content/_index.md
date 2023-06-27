@@ -4,9 +4,10 @@ header_tagline_paragraph: "Welcome to the official website of ExoSpine, the lead
 header_button_cta:
   url: "https://fantastic-gaufre-a608da.netlify.app"
   title: "Get in touch"
-header_button_cta:
+header_button_more
   url: "https://fantastic-gaufre-a608da.netlify.app"
-  title: "Pre-Order"
+  title: "Preorder"
+
 ---
 
 # The Future - Today!
