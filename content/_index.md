@@ -1,6 +1,6 @@
 ---
 header_brand: "Exospine."
-header_tagline_paragraph: "Welcome to the official website of ExpSopine, the leading provider of innovative solutions for individuals with scoliosis. We extend a warm and professional welcome to you as you embark on a journey toward improved support and spine alignment."
+header_tagline_paragraph: "Welcome to the official website of ExpSpine, the leading provider of innovative solutions for individuals with scoliosis. We extend a warm and professional welcome to you as you embark on a journey toward improved support and spine alignment."
 header_button_cta:
   url: "https://fantastic-gaufre-a608da.netlify.app"
   title: "Get in touch"
