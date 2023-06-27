@@ -2,10 +2,10 @@
 header_brand: "Exospine"
 header_tagline_paragraph: "Hello"
 header_button_cta:
-  url: "#contact-form"
+  url: "https://fantastic-gaufre-a608da.netlify.app"
   title: "Get in touch"
 header_button_more:
-  url: "#the-future---today"
+  url: "https://fantastic-gaufre-a608da.netlify.app"
   title: "Why this is awesome?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
