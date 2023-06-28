@@ -5,7 +5,7 @@ header_button_cta:
   url: "https://fantastic-gaufre-a608da.netlify.app"
   title: "Get in touch"
 header_button_more:
-  url: "https://fantastic-gaufre-a608da.netlify.app"
+  url: "https://celadon-florentine-a8db83.netlify.app"
   title: "Preorder"
 
 ---
